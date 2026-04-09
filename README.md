@@ -587,8 +587,8 @@ This plugin system is part of Galactic.CC. Check the main repository for license
 
 ## 🎓 Additional Resources
 
-- [Example Plugin Project](../Examples/ExamplePlugin.cs)
-- [Test Plugin](../../TestPlugin/)
+- [Example Plugin Project](https://github.com/FTSyxcal/Galactic-Custom-Plugins/releases/tag/Galactic-Custom-Plugins)
+- [Test Plugin](https://github.com/FTSyxcal/Galactic-Custom-Plugins/releases/tag/Galactic-Custom-Plugins)
 - [Unity Scripting Reference](https://docs.unity3d.com/ScriptReference/)
 - [Our Discord](https://discord.gg/eQp3PwWkGw)
 
